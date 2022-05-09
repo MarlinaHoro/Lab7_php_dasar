@@ -10,18 +10,18 @@
 	![png](gambar/1.png)
 
 
-hasilnya
+3. hasilnya
 
 	![png](gambar/1.1.png)
 
-3. membuat Form input 
+4. membuat Form input 
 
 
 
 	![png](gambar/2.png)
 
 
-hasilnya....
+5. hasilnya
 
 
 	![png](gambar/2.1.png)
