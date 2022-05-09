@@ -2,3 +2,7 @@
 
 
 1. Membuat File dengan nama Php_dasar
+
+
+
+![png](gambar/1.png)
