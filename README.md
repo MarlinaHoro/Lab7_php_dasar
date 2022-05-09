@@ -44,4 +44,32 @@
 	![png](gambar/6.1.png)
 
 
+8. Menambahkan Kondisi IF dan Switch
+
+
+	
+	![png](gambar/3.png)
+
+
+
+9. hasil
+
+
+	![png](gambar/3.1.png)
+
+
+
+10. perulangan for
+
+
+	![png](gambar/4.png)
+
+
+11. hasil
+
+
+
+	![png](gambar/4.1.png)
+
+
 
