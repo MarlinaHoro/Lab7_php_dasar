@@ -7,15 +7,22 @@
 
 
 
-![png](gambar/1.png)
+	![png](gambar/1.png)
 
 
 hasilnya
 
-![png](gambar/1.1.png)
+	![png](gambar/1.1.png)
 
 3. membuat Form input 
 
 
 
-![png](gambar/2.png)
+	![png](gambar/2.png)
+
+
+hasilnya....
+
+
+	![png](gambar/2.1.png)
+
