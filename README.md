@@ -28,9 +28,12 @@
 
 6. menambahkan operator
 
-	
+
 
 	![png](gambar/6.png)
+	
+
+
 
 
 
