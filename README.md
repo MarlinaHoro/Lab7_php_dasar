@@ -73,3 +73,15 @@
 
 
 
+12. perulangan while dan doWhile
+	
+
+	
+	![png](gambar/5.png)
+
+
+13. hasil
+
+
+![png](gambar/5.1.png)
+
