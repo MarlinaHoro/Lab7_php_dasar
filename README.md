@@ -30,7 +30,7 @@
 
 	
 
-	![png](gambar/0.png)
+	![png](gambar/6.png)
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-	![png](gambar/0.1.png)
+	![png](gambar/6.1.png)
 
 
 
