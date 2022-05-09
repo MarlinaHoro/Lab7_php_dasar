@@ -2,7 +2,20 @@
 
 
 1. Membuat File dengan nama Php_dasar
+2. Menambahkan Variabel php
+
 
 
 
 ![png](gambar/1.png)
+
+
+hasilnya
+
+![png](gambar/1.1.png)
+
+3. membuat Form input 
+
+
+
+![png](gambar/2.png)
