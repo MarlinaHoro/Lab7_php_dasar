@@ -26,3 +26,15 @@
 
 	![png](gambar/2.1.png)
 
+6. menambahkan operator
+
+	
+	![png](gambar/0.png)
+
+
+7. hasil
+
+
+	![png](gambar/0.1.png)
+
+
