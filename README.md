@@ -85,3 +85,8 @@
 
 ![png](gambar/5.1.png)
 
+
+14. membuat nama file baru 
+
+	![png](gambar/7.png)
+
