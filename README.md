@@ -90,3 +90,12 @@
 
 	![png](gambar/7.png)
 
+15. menambahkan output
+
+
+	 ![png](gambar/8.png)
+
+16. hasilnya
+
+
+	![png](gambar/9.png)
